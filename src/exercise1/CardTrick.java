@@ -48,7 +48,7 @@ public class CardTrick {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
-        
+        System.out.println("Komalpreet Kaur , Age: 22 , Surname: Sandhu")
         
         
     
