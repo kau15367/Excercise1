@@ -44,11 +44,12 @@ public class CardTrick {
     }
         }
     }
+    //i'm done
     private static  void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
-        System.out.println("Komalpreet Kaur , Age: 22 , Surname: Sandhu")
+        System.out.println("Komalpreet Kaur , Age: 22 , Surname: Sandhu");
         
         
     
